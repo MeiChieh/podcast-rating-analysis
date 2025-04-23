@@ -16,6 +16,10 @@ The data is stored in a SQLite database (`podcast.sqlite`) with the following ta
 - `reviews`: User reviews and ratings
 - `runs`: Dataset update tracking information
 
+## 📗 Notebook
+- [project.ipynb](https://github.com/MeiChieh/podcast-rating-analysis/blob/main/project.ipynb)
+
+
 ## ⭐ Key Findings
 
 ### 1. Rating Distribution & Trends
