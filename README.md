@@ -57,14 +57,14 @@ The data is stored in a SQLite database (`podcast.sqlite`) with the following ta
 - Review patterns suggest different content preferences based on time of day
 
 ## 📁 Project Structure
-
+```
 ├── project.ipynb # Main analysis notebook
 ├── helper/ # Helper functions and utilities
 ├── podcast.sqlite # SQLite database containing the dataset
 ├── Pipfile # Pipenv dependencies
 ├── requirements.txt # Python package requirements
 └── README.md # Project documentation
-
+```
 
 ## 🛠️ Technologies Used
 - Python
